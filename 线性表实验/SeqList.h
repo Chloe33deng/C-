@@ -1,5 +1,7 @@
 # ifndef SeqList_H
 # define SeqList_H
+
+//test....sdfdsfds
     const int MaxSize = 10;
     class SeqList{
         public:
